@@ -5,6 +5,8 @@ You need to have a certificate file - CER or P12.
 Will work with self signed certificates also.
 
 
+Before running the BatchPDFAutoSigner please run Setup - to configure the application to your Environment.
+
 
 
 
